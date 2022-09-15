@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Donguler/Donguler.iml" filepath="$PROJECT_DIR$/Donguler/Donguler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaDemos.iml" filepath="$PROJECT_DIR$/.idea/JavaDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReCapDemo_Classes/ReCapDemo_Classes.iml" filepath="$PROJECT_DIR$/ReCapDemo_Classes/ReCapDemo_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/arraysDemo/arraysDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classes/classes.iml" filepath="$PROJECT_DIR$/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doWhileLoop/doWhileLoop.iml" filepath="$PROJECT_DIR$/doWhileLoop/doWhileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/javaHelloWorld.iml" filepath="$PROJECT_DIR$/javaHelloWorld/javaHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kalinInceSesliHarf/kalinInceSesliHarf.iml" filepath="$PROJECT_DIR$/kalinInceSesliHarf/kalinInceSesliHarf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kullanicidanVeriAlma/kullanicidanVeriAlma.iml" filepath="$PROJECT_DIR$/kullanicidanVeriAlma/kullanicidanVeriAlma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods1/methods1.iml" filepath="$PROJECT_DIR$/methods1/methods1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProjectAsalSayi/miniProjectAsalSayi.iml" filepath="$PROJECT_DIR$/miniProjectAsalSayi/miniProjectAsalSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mukemmelSayi/mukemmelSayi.iml" filepath="$PROJECT_DIR$/mukemmelSayi/mukemmelSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" filepath="$PROJECT_DIR$/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overridingDemo/overridingDemo.iml" filepath="$PROJECT_DIR$/overridingDemo/overridingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphismDemo/polymorphismDemo.iml" filepath="$PROJECT_DIR$/polymorphismDemo/polymorphismDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recapDemo1/recapDemo1.iml" filepath="$PROJECT_DIR$/recapDemo1/recapDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recapDemos1/recapDemos1.iml" filepath="$PROJECT_DIR$/recapDemos1/recapDemos1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sayiBulma/sayiBulma.iml" filepath="$PROJECT_DIR$/sayiBulma/sayiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sinavPuaniHesaplama/sinavPuaniHesaplama.iml" filepath="$PROJECT_DIR$/sinavPuaniHesaplama/sinavPuaniHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringDemo/stringDemo.iml" filepath="$PROJECT_DIR$/stringDemo/stringDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whileLoop/whileLoop.iml" filepath="$PROJECT_DIR$/whileLoop/whileLoop.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ReCapDemo_Classes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/classesWithAttributes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kullanicidanVeriAlma" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/methods1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/miniProjectAsalSayi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mukemmelSayi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/recapDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sayiBulma" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stringDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stringDemo/src" vcs="Git" />
+  </component>
+</project>
